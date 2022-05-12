@@ -1,1 +1,3 @@
 # StudyGit
+
+have add commit push...
